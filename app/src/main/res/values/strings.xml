@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leaf Check</string>
+    <string name="take_photo">Take photo</string>
+    <string name="choose_gallery">Choose gallery</string>
+    <string name="choose_photo">Choose camera</string>
+    <string name="mp_cancel">Cancel</string>
+    <string name="cancel">Cancel</string>
+</resources>
