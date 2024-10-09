@@ -1,4 +1,3 @@
-Sure! Here's a sample `README.md` file for your Plant Disease Detection application using Machine Learning in a Java Android project:
 
 ```markdown
 # Plant Disease Detection Application
@@ -135,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Acknowledgments
 
-- PlantVillage Dataset
+- Custom Dataset
 - TensorFlow Lite
 - Android Studio
 
